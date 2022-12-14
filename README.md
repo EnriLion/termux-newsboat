@@ -6,7 +6,7 @@ apt install newsboat
 ```
 Follow the instructions of the [Newsboat F&A](https://newsboat.org/releases/2.22/docs/faq.html) 
 
-**INSTEAD OF USING /usr/bin/firefox am YOU WILL USE  , AS MY bash file**
+**INSTEAD OF USING /usr/bin/firefox  YOU WILL USE  am , AS MY bash file**
 ```
 #!/bin/bash
 am start --user 0 -n com.android.chrome/com.google.android.apps.chrome.Main "$@" &
