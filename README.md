@@ -1,5 +1,5 @@
-# WSL-NEWSBOAT
-A brief introduction how to setup [Newsboat](https://newsboat.org/) with your favorite browser  on Windows Subsystem Linux 
+# TERMUX-NEWSBOAT
+A brief introduction how to setup [Newsboat](https://newsboat.org/) with your favorite browser  onyour Android System
 > There are more util stuff in Newsboat for productivity instead of wasting your time on social media and instead using WSL
 ```
 sudo apt install newsboat
