@@ -14,5 +14,11 @@ cd /mnt/c/Program\Files/Internet\ Explorer/
 ./iexplore.exe "$@"
 exit 0
 ```
-You could use and create macros I create a macro to open 
-
+You could use and create macros I create a macro to open with your media player(mpv) the youtube files or video files I still tried to figure out how to make it smooth.
+In your .newsboat/config you need to add:
+```
+browser "/bin/newsboat-browser.sh"
+#Open Youtube Files with Media Player
+macro o set browser  mpv  ; open-in-browser ; set browser $BROWSER
+macro O set browser  mpv  ; open-in-browser ; set browser $BROWSER
+```
