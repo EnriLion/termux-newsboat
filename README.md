@@ -14,4 +14,5 @@ cd /mnt/c/Program\Files/Internet\ Explorer/
 ./iexplore.exe "$@"
 exit 0
 ```
+You could use and create macros I create a macro to open 
 
