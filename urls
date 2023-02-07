@@ -1,0 +1,58 @@
+#Queries
+
+##All about 
+
+"query:Networking:tags # \"The-Register-Networking\""
+"query:Geekday:tags # \"The-Register-Geekday\""
+
+## Hackaday Feed
+
+https://hackaday.com/rss "Hackaday"
+
+##The Register Queries
+"query:The-Register-Security:tags # \"The-Register-Security\""
+"query:The-Register-Off-Prem:tags # \"The-Register-Off-Prem\""
+"query:The-Register-Software:tags # \"The-Register-Software\""
+
+
+## TheRegister Feeds
+
+https://www.theregister.com/offbeat/geeks_guide/headlines.atom "Geeksday"
+
+
+### Security
+
+https://www.theregister.com/security/cyber_crime/headlines.atom "The-Register-Security"
+https://www.theregister.com/security/research/headlines.atom "The-Register-Security"
+https://www.theregister.com/security/patches/headlines.atom "The-Register-Security"
+https://www.theregister.com/security/cso/headlines.atom "The-Register-Security"
+
+### Off-Prem
+
+https://www.theregister.com/off_prem/channel/headlines.atom "The-Register-Off-Prem"
+https://www.theregister.com/off_prem/edge_iot/headlines.atom "The-Register-Off-Prem"
+https://www.theregister.com/off_prem/paas_iaas/headlines.atom "The-Register-Off-Prem"
+https://www.theregister.com/off_prem/saas/headlines.atom "The-Register-Off-Prem"
+
+## Networking
+
+https://www.theregister.com/on_prem/networks/headlines.atom "The-Register-Networking"
+
+##Geekday
+
+https://www.theregister.com/offbeat/geeks_guide/headlines.atom "The-Register-Geekday"
+
+
+### TheRegister Feeds
+### Software
+
+https://www.theregister.com/software/ai_ml/headlines.atom "The-Register-Software"
+https://www.theregister.com/software/applications/headlines.atom "The-Register-Software"
+https://www.theregister.com/software/databases/headlines.atom "The-Register-Software"
+https://www.theregister.com/software/devops/headlines.atom "The-Register-Software"
+https://www.theregister.com/software/oses/headlines.atom "The-Register-Software"
+https://www.theregister.com/software/virtualization/headlines.atom "The-Register-Software"
+
+
+
+
