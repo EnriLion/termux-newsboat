@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TERMUX-NEWSBOAT
 A brief introduction how to setup [Newsboat](https://newsboat.org/) with your favorite browser  onyour Android System
 > There are more util stuff in Newsboat for productivity instead of wasting your time on social media and instead using for more productivity termux
@@ -40,4 +39,3 @@ browser "/bin/newsboat-browser.sh"
 macro o set browser  mpv  ; open-in-browser ; set browser $BROWSER
 macro O set browser  mpv  ; open-in-browser ; set browser $BROWSER
 ```
->>>>>>> wsl/main
