@@ -1,0 +1,2 @@
+browser "~/bin/newsboat-browser.sh"
+browser "firefox %u"
